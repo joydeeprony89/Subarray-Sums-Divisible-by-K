@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
+// https://www.youtube.com/watch?v=QM0klnvTQzk
 namespace Subarray_Sums_Divisible_by_K
 {
   class Program
